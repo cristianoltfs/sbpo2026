@@ -6,13 +6,11 @@ Utilizando Debian 13 com o OpenJDK25
 
 =====================
 
-utilizar .dae no JaamSim é melhor
+Utilizar o arquivo de imagem na mesma pasta do .cfg
 
-utilizar o assimp-utils para converter .obj em .dae
+Utilizar imagem .obj em formato .zip
 
-apt install assimp-utils
-
-assimp export mannequinMale.obj operador.dae
+Obs: trabalhar com .dae no JaamSim é melhor que .obj, porém o .dae é mais complexo de encontrar e trabalhar
 
 =====================
 
