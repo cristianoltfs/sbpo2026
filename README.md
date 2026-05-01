@@ -10,7 +10,7 @@ Utilizar o arquivo de imagem na mesma pasta do .cfg
 
 Utilizar imagem .obj em formato .zip
 
-Obs: trabalhar com .dae no JaamSim é melhor que .obj, porém o .dae é mais complexo de encontrar
+Obs: trabalhar com .dae no JaamSim é melhor que .obj, porém o .dae pode ser mais complexo de encontrar
 
 =====================
 
@@ -21,5 +21,48 @@ colocar as imagens (.zip) na mesma pasta do cfg
 exemplo:
 
 user@pc:~/sbpo2026$ java -jar JaamSim2026-02.jar modelo02.cfg 
+
+=====================
+
+Wilson:
+
+A pá-carregadeira tirei do https://sketchfab.com/
+A empilhadeira do: https://3dwarehouse.sketchup.com/
+
+O jaamsim é meio complicado de aceitar alguns formatos 3D, daí passando para Collada (.dae), em geral o jaamsim aceita mais fácil
+Para isso usei o app online: https://convert3d.org/gltf-to-dae/app
+
+=====================
+
+Sites com imagens 3d:
+
+https://sketchfab.com/
+
+https://3dwarehouse.sketchup.com/
+
+Site para conversar para Collada (.dae)
+
+https://convert3d.org/gltf-to-dae/app
+
+=====================
+
+Site para criar imagens 3d com IA:
+
+https://www.meshy.ai/pt-BR
+
+=====================
+
+Quantidade média em cada bag:
+1150 kg (aproximadadmente 1,2 t (tonelada))
+
+Quantidade que a carregadeira transporta:
+2 bags
+2300 kg (aproximadamente 2,3 t (tonelada))
+
+Pilha inicial:
+Total de 1000 bags = 1150000 kg = 1150 t (tonelada)
+
+Quantidade que a empilhadeira transporta:
+1 bag (1,2 t)
 
 =====================
