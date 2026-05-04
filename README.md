@@ -65,4 +65,11 @@ Total de 1000 bags = 1150000 kg = 1150 t (tonelada)
 Quantidade que a empilhadeira transporta:
 1 bag (1,2 t)
 
+Carga aproximada de cada carreta:
+Total de 30 bags = 34500 kg = 35,5 t (tonelada)
+
+A simulação terá uma duração de 168 h (7 dias)
+
+A operação ocorre 24h horas por dia, 7 dias por semana.
+
 =====================
