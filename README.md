@@ -68,8 +68,8 @@ Quantidade que a empilhadeira transporta:
 Carga aproximada de cada carreta:
 Total de 30 bags = 34500 kg = 35,5 t (tonelada)
 
-A simulação terá uma duração de 168 h (7 dias)
+A simulação terá uma duração de 24 h (1 dia)
 
-A operação ocorre 24h horas por dia, 7 dias por semana.
+A operação ocorre 24h horas por dia.
 
 =====================
