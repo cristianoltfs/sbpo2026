@@ -29,7 +29,7 @@ Wilson:
 A pá-carregadeira tirei do https://sketchfab.com/
 A empilhadeira do: https://3dwarehouse.sketchup.com/
 
-O jaamsim é meio complicado de aceitar alguns formatos 3D, daí passando para Collada (.dae), em geral o jaamsim aceita mais fácil
+O jaamsim as vezes não aceitar alguns formatos 3D, daí passando para Collada (.dae), em geral o jaamsim aceita mais fácil
 Para isso usei o app online: https://convert3d.org/gltf-to-dae/app
 
 =====================
@@ -40,7 +40,7 @@ https://sketchfab.com/
 
 https://3dwarehouse.sketchup.com/
 
-Site para conversar para Collada (.dae)
+Site para converter para Collada (.dae)
 
 https://convert3d.org/gltf-to-dae/app
 
