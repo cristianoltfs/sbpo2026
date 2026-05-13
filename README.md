@@ -29,8 +29,8 @@ Wilson:
 A pá-carregadeira tirei do https://sketchfab.com/
 A empilhadeira do: https://3dwarehouse.sketchup.com/
 
-O jaamsim as vezes não aceitar alguns formatos 3D, daí passando para Collada (.dae), em geral o jaamsim aceita mais fácil
-Para isso usei o app online: https://convert3d.org/gltf-to-dae/app
+O Jaamsim não aceita alguns formatos 3D, daí convertendo para Collada (.dae), em geral resolve a incompatibilidade do formato original.
+Para a conversão, usei o app online: https://convert3d.org/gltf-to-dae/app
 
 =====================
 
